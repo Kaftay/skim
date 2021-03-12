@@ -4,11 +4,12 @@ body {
 
 h1 {
   color: black;
+  font-family: 'comfortaa' !important;
   text-align: center;
 }
 
 p {
   color: darkgray;
-  font-family: verdana !important;
+  font-family: 'comfortaa' !important;
   font-size: 20px;
 }
