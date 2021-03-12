@@ -24,8 +24,8 @@ Currently these are the versions of Skim supported by the latest security scans 
  refer to the `file`, `section` and `line` in which it is located.
  Please don't report vulnerabilities via the `Discussions` section.
  All issues are seen so if you think we're taking too long, this 
- is probably because of:
+ is probably because of:                                  
  • You haven't signified the location of the problem's `file`, 
-   `section` or `line`        or
+   `section` or `line`        or                   
  • It's a major issue which requires a full release.
  
