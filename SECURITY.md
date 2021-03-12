@@ -6,14 +6,14 @@ Currently these are the versions of Skim supported by the latest security scans 
   ### *Full Release*
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0     | :✔️:               |
+| 1.0     | ✔️               |
 | 0.9b    | :x:                |
 
 
   ### *Indev*
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.2   | :✔️:               |
+| 1.0.2   | ✔️               |
 
 
 ## Reporting a Vulnerability
