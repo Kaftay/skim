@@ -41,16 +41,6 @@ p {
   color: white;
 }
 
-.topnav input[type=text] {
-  float: left;
-  padding: 6px;
-  border: none;
-  margin-top: 8px;
-  margin-right: 16px;
-  font-size: 17px;
-  color: black;
-  font-family: "Gill Sans", sans-serif !important;
-}
 .search input[type=text] {
   float: middle;
   padding: 6px;
