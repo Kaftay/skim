@@ -4,13 +4,13 @@ body {
 
 h1 {
   color: black;
-  font-family: 'comfortaa' !important;
+  font-family: "Gill Sans", sans-serif !important;
   text-align: center;
 }
 
 p {
   color: darkgray;
-  font-family: 'comfortaa' !important;
+  font-family: "Gill Sans", sans-serif !important;
   font-size: 20px;
 }
 .topnav {
