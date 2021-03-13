@@ -42,11 +42,12 @@ p {
 }
 
 .topnav input[type=text] {
-  float: right;
+  float: middle;
   padding: 6px;
   border: none;
   margin-top: 8px;
   margin-right: 16px;
+  border-radius: 4px;
   font-size: 17px;
   color: black;
   font-family: "Gill Sans", sans-serif !important;
