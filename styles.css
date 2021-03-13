@@ -42,7 +42,7 @@ p {
 }
 
 .search input[type=text] {
-  float: middle;
+  float: center;
   padding: 6px;
   border: none;
   margin-top: 8px;
