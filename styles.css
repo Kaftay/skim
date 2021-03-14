@@ -48,15 +48,14 @@ p {
   margin-top: 4px;
   margin-right: 8px;
   font-size: 17px;
-  max-length: 2400px;
-  min-length: 350px;
+  width: 90%;
   color: black;
   font-family: "Gill Sans", sans-serif !important;
 }
 
 @media screen and (max-width: 600px) {
   .topnav a, .topnav input[type=text] {
-    float: none;
+    float: center;
     display: block;
     text-align: left;
     width: 100%;
