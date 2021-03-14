@@ -45,11 +45,11 @@ p {
   float: center;
   padding: 12px;
   border: none;
-  margin-top: 10px;
-  margin-right: 18px;
+  margin-top: 4px;
+  margin-right: 8px;
   font-size: 17px;
-  max-width: 700px;
-  min-width: 350px;
+  max-length: 700px;
+  min-length: 350px;
   color: black;
   font-family: "Gill Sans", sans-serif !important;
 }
