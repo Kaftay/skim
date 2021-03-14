@@ -48,7 +48,8 @@ p {
   margin-top: 10px;
   margin-right: 18px;
   font-size: 17px;
-  width: 100px;
+  max-width: 700px;
+  min-width: 350px;
   color: black;
   font-family: "Gill Sans", sans-serif !important;
 }
