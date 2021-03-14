@@ -20,11 +20,11 @@ p {
 }
 
 .topnav a {
-  float: left;
+  float: center;
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 18px 20px;
   text-decoration: none;
   font-size: 17px;
   color: black;
@@ -43,7 +43,7 @@ p {
 
 .search input[type=text] {
   float: center;
-  padding: 6px;
+  padding: 12px;
   border: none;
   margin-top: 10px;
   margin-right: 18px;
@@ -59,7 +59,7 @@ p {
     text-align: left;
     width: 100%;
     margin: 0;
-    padding: 14px;
+    padding: 18px;
   }
   .topnav input[type=text] {
     border: 1px solid #ccc;
